@@ -111,9 +111,8 @@ While it may seem difficult at first, being able to use the command line will em
     * Learning the basics of the command line will help you understand why you are running the commands, and give you a general idea of how they work.
     *  The command line, as with all power, has its risks. You have the capability to instruct the computer to do many things. If you instruct the computer to erase all of your data, it will cheerfully proceed to do so. Do not run a command just to see what it does. Make sure you understand what the command is supposed to do first, especially if the command involves changing or removing files.
 
-* Power over the computer
+Being able to communicate with your computer or server via command line gives you immense and precise power over your computer. You can take advantage of a lot of powerful tools in their raw, powerful form.
 
-    * Being able to communicate with your computer or server via command line gives you immense and precise power over your computer.
-    * With command line, you can easily monitor your computer and its resources.
-    * You can take advantage of a lot of powerful tools in their raw, powerful form.
-    * You can learn to diagnose issues with your own software and others' software.
+Happy coding! 
+
+_xoxo Mirela_
