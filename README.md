@@ -1,7 +1,7 @@
 # Command Line
 
 The way we communicate with our computers is pretty straight forward, we either click, tap, slide, hover, type and so on. These are simple gestures that we use to comand the computer.
-Most operating systems that run on servers, desktops, and laptops provide another way of commanding your computer that many people have never even heard of. It is aptly called the command line interface (or CLI), the command line, or the command prompt. 
+Most operating systems that run on servers, desktops, and laptops provide another way of commanding your computer that many people have never even heard of. It is called the command line interface (or CLI), the command line, or the command prompt. 
 
 ## How to use command line
 
